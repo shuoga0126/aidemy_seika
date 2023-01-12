@@ -1,5 +1,5 @@
 header {
-    background-color: #76B55B;
+    background-color: #3f473c;
     height: 60px;
     margin: -8px;
     display: flex;
@@ -45,7 +45,7 @@ form {
 }
 
 footer {
-    background-color: #F7F7F7;
+    background-color: hsl(0, 6%, 50%);
     height: 110px;
     margin: -8px;
     position: relative;
